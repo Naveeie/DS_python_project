@@ -4,7 +4,7 @@ Here I have done some Data Exploration and Data Analysis as part of project.
 
 There are three different Datasets for performing Analysis 
               
-              1) Customer Service Requests Analysis
-              2)Comcast Telecom Customer Complaints
-              3) Retail Analysis with Walmart Data
+              1)Customer Service Requests Analysis
+              2)Retail Analysis with Walmart Data
+              3)Movie Lens Case study
 
