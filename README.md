@@ -8,3 +8,5 @@ There are three different Datasets for performing Analysis
               2)Movie Lens Case study
               3)Retail Analysis with Walmart Data
 
+Web_scraping_WIKI.ipynb is a web scraping project, extracting some Disney Land movie details using BeautifulSoup
+from WIKIPEDIA.
